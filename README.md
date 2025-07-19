@@ -6,7 +6,7 @@ To verify the functionality,usability and reliability of the Skill Exchange Plat
 
  MY RESPONSIBILITIES
 
- Setting up the automation project using ReqnRoll for BDD
- Implementing the POM Structure
- writing automated test using user stories and acceptance criteria
+ Setting up the automation project using ReqnRoll for BDD,
+ Implementing the POM Structure,
+ writing automated test using user stories and acceptance criteria,
  Test skills and language functionalities
